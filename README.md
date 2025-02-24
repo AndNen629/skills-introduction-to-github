@@ -6,6 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
   I added this line at 6:04 pm, another line at 06:05
+  I added this line locally at 7:05 pm
 -->
 
 # Introduction to GitHub
